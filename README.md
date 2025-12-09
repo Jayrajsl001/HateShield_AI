@@ -36,6 +36,7 @@ HateShield AI is a full-stack web application that detects **abusive / hate spee
 - Axios
 
 ---
+<img width="1917" height="969" alt="image" src="https://github.com/user-attachments/assets/c9cee17d-9b23-4d72-8e4c-d8105295db90" />
 
 ---
 
@@ -423,4 +424,5 @@ Deployable to:
 **Stack:** React • Tailwind • FastAPI • Transformers • PyTorch
 
 ---
+
 
